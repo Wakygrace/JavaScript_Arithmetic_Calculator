@@ -1,2 +1,2 @@
 # JavaScript_Arithmetic_Calculator
-https://github.com/Wakygrace/JavaScript_Arithmetic_Calculator.git
+https://wakygrace.github.io/JavaScript_Arithmetic_Calculator/Java_Arit_Cal/
